@@ -1,0 +1,10 @@
+(Basic):
+https://rstudio-education.github.io/hopr/
+
+
+(intermediate):
+https://r4ds.had.co.nz/
+
+
+(Top-level):
+https://adv-r.hadley.nz/
